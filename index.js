@@ -9,7 +9,7 @@ Bu görevleri yaparken, yazdığın kod'un doğru çıktı verdiğini kontrol et
 Bunun için cevabı direk console'a logla veya çağırdığın fonksiyondan dönen değeri console'a logla.  
 Örneğin:  console.log(ornekFonksiyon(deger1,deger2))
 */
-
+ 
 /*
 Görev 1a - Ehliyet Yaşı (puanlamaya dahil değildir)
 
@@ -58,6 +58,10 @@ function carpma(sayi1,sayi2) {
        return sayi1*sayi2;
 
 }
+//doguhan
+
+
+//test yorum
 
 /* Görev 2 : Köpeğin Yaşı */
 
@@ -168,8 +172,8 @@ Aşağdakileri notHesapla fonksiyonunda yap.
 
 function notHesapla(/*buraya kodunu yazabilirsin*/) {
   /*buraya kodunu yazabilirsin*/
-}
 
+}
 /* Bonus Çalışma: Sesli harf sayacı - Kaç tane sesli harf var? */
 
 /*
